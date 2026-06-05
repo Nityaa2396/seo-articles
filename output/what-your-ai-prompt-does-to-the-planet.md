@@ -4,6 +4,8 @@
 
 This is not a scare piece. The numbers are real, and they matter — especially now, when AI usage is exploding and the infrastructure behind it is being built faster than any environmental guardrail can keep up.
 
+This isn't an argument against AI. It's an argument for knowing what we're building — and demanding the industry be honest about it.
+
 ---
 
 ## What Actually Happens When You Type a Prompt
@@ -98,7 +100,7 @@ Researchers and policymakers are increasingly calling for mandatory disclosure �
 
 None of this means you should stop using AI. That's not the point.
 
-The point is that AI has a cost that isn't reflected in the interface. When you use it thoughtlessly — when you run 20 iterations of an image prompt to get something slightly different, or ask an LLM to summarize a document you haven't read, or generate content at volume without a clear purpose — those queries aren't free. They're just billed to a ledger you can't see.
+The point isn't to stop using AI. It's that a cost exists that isn't reflected in the interface. When you use it thoughtlessly — when you run 20 iterations of an image prompt to get something slightly different, or ask an LLM to summarize a document you haven't read, or generate content at volume without a clear purpose — those queries aren't free. They're just billed to a ledger you can't see.
 
 Being intentional about how you use AI isn't about guilt. It's about recognizing that the infrastructure running these tools is physical, it uses real resources, and the scale at which it operates has real consequences.
 

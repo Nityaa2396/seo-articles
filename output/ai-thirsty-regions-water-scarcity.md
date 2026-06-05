@@ -2,7 +2,11 @@
 
 *In Abilene, Texas, residents are on drought restrictions — limiting showers, skipping lawn watering, watching the sky for rain that doesn't come. Down the road, a data center the size of Central Park is being built to power ChatGPT. It will consume enough electricity to light 750,000 homes. And it will need water — a lot of it — to keep from melting down.*
 
-*This is not a hypothetical future. It's already happening. And Abilene is just one city in a growing list of places that didn't know they were in a fight over water until Big Tech showed up.*
+*This is not a hypothetical future. It's already happening.*
+
+*This isn't a case against building AI infrastructure. It's a case for building it with transparency, planning, and community input.*
+
+*And Abilene is just one city in a growing list of places that didn't know they were in a fight over water until Big Tech showed up.*
 
 ---
 
@@ -114,7 +118,7 @@ The industry is extracting billions of gallons from aquifers and municipal syste
 
 Water stress is already affecting one in four data centers globally — a number that will grow as climate change tightens supply in the regions where this infrastructure has been built. By 2050, MSCI analysis suggests that a significant portion of existing facilities will experience regular periods where local water demand exceeds supply by more than 60%.
 
-The data center industry is building for 2030. It is locating infrastructure based on 2024 conditions. The climate models are already showing what 2050 looks like in Texas, in northern Chile, in the Gulf, in Mumbai. That mismatch — between where data centers are going and where water will still be — is not an accident. It's a regulatory failure in motion.
+The data center industry is building for 2030. It is locating infrastructure based on 2024 conditions. The climate models are already showing what 2050 looks like in Texas, in northern Chile, in the Gulf, in Mumbai. That mismatch — between where data centers are going and where water will still be — is a planning gap we still have time to close. But only if we start measuring it.
 
 ---
 
