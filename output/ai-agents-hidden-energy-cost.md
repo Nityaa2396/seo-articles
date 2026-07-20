@@ -11,7 +11,7 @@ What actually happened: the agent silently triggered 40 or more individual model
 This is the central illusion at the heart of today's AI energy conversation, and it's one the industry has a powerful incentive to maintain. Every headline, every congressional hearing, and nearly every academic study is measuring a version of AI's environmental footprint that is already out of date. They are counting training runs and aggregate data center loads, while the compounding, never-disclosed energy cost of agentic AI goes unexamined. This article breaks down the scope of that problem, explains why it stays invisible, and identifies what accountability would actually require.
 
 ![Abstract visualization of energy flowing into a data center with digital AI nodes overlaid](https://www.visualcapitalist.com/wp-content/uploads/2025/03/Data-Center-Energy-Use_BGO_Main.jpg)
-_Source: Visual Capitalist_
+
 
 ---
 
@@ -46,7 +46,7 @@ This gap exists partly because no mandatory disclosure standard exists anywhere 
 ## What Is Agentic AI — And Why Does It Change Everything?
 
 ![Diagram comparing a single chatbot query flow vs. a multi-step agentic AI task chain with energy icons at each step](https://substackcdn.com/image/fetch/$s_!H5U_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa69ad383-c688-4bc9-8bac-d4855cc2342a_2360x2770.png)
-_Source: ByteByteGo Newsletter_
+
 
 ### Chatbots vs. Agents: A Fundamental Architectural Difference
 
@@ -77,7 +77,7 @@ Unlike a chatbot that consumes energy only when a user sends a message, an alway
 ## The Water Nobody Is Counting
 
 ![Aerial photograph of large industrial cooling towers adjacent to a data center facility](https://media.wired.com/photos/6a1f238eaaa9871d34a367b3/4:3/w_1872,h_1404,c_limit/Data-Center-Water-Consumption-Science-2245861123.jpg)
-_Source: WIRED_
+
 
 ### How AI Data Centers Drink Water
 
@@ -106,7 +106,7 @@ Current water consumption projections from the IEA and academic research teams d
 ## The Accountability Vacuum — Why Nobody Is Measuring This
 
 ![Empty government hearing room with an AI company logo projected on screen, symbolizing lack of oversight](https://cdn.sanity.io/images/3tzzh18d/production/19b4cb0e3c8400c2fd0300353a84fbd615a1d04f-1200x675.png)
-_Source: Tech Policy Press_
+
 
 ### Corporate Disclosure: Voluntary, Vague, and Strategically Incomplete
 
